@@ -1,0 +1,6 @@
+name,category,price,salePrice,stock,description,features,imageUrl,isNew,onSale,rating
+"Pro Gaming Controller","accessories",59.99,45,"Enhanced precision and comfort for extended gaming sessions.","Customizable buttons;Bluetooth connectivity;Ergonomic design;20-hour battery life","images/controller.jpg",true,false,4.5
+"Immersive Headset","accessories",89.99,38,"7.1 surround sound with noise-cancelling microphone.","Over-ear cushions;Retractable microphone;Multi-platform compatibility;Volume control panel","images/headset.jpg",false,false,4.7
+"Mechanical Keyboard","accessories",79.99,99.99,52,"RGB backlit mechanical keyboard with programmable macros.","Blue mechanical switches;Fully programmable keys;Anti-ghosting technology;Aluminum frame","images/keyboard.jpg",false,true,4.3
+"RED Katana Elite Gaming Chair","furniture",249.99,20,"Premium gaming chair with adjustable lumbar support and 4D armrests.","PU leather upholstery;180° recline;Memory foam cushions;Steel frame construction;Weight capacity: 300 lbs","images/elite_chair.jpg",true,false,4.8
+"Samurai Gaming Desk","furniture",179.99,199.99,15,"Spacious gaming desk with cable management system and RGB lighting.","Carbon fiber texture surface;Programmable RGB edge lighting;Integrated headphone hook;Cup holder;Monitor shelf","images/gaming_desk.jpg",false,true,4.6
